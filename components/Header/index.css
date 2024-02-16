@@ -1,0 +1,19 @@
+.example-class {
+    word-spacing: 55px;
+  }
+  .compenyName{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 2rem;
+
+  
+  }
+  .compeny{
+    letter-spacing: 10px;
+  }
+  .icons{
+   height:24px ;
+   width:161px ;
+   
+  }
